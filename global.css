@@ -1,0 +1,50 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-lexend: Lexend;
+  --font-gilroy-bold: Gilroy-Bold;
+  --font-inter: Inter;
+  --font-lato: Lato;
+  --font-pontano-sans: "Pontano Sans";
+  --font-plantagenet-cherokee: "Plantagenet Cherokee";
+  --font-gilroy-medium: Gilroy-Medium;
+
+  /* font sizes */
+  --font-size-3xs: 12px;
+  --font-size-2xs: 14px;
+  --font-size-xs: 15px;
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --font-size-lg: 18.75px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 36px;
+  --font-size-5xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fafafb;
+  --color-gray-200: #d9d9d9;
+  --color-gray-300: #c4c4c4;
+  --color-gray-400: #737171;
+  --color-gray-500: #67686b;
+  --color-gray-600: #616161;
+  --color-gray-700: #5a5959;
+  --color-gray-800: #4f516b;
+  --color-gray-900: #4f5062;
+  --color-gray-1000: #505050;
+  --color-gray-1100: #444557;
+  --color-gray-1200: #263238;
+  --color-gray-1300: #272834;
+  --color-gray-1400: rgba(132, 141, 199, 0.22);
+  --color-gray-1500: rgba(132, 144, 199, 0.35);
+  --color-indigo-100: #444bab;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-xs: 2.86px;
+  --br-sm: 6px;
+  --br-md: 10px;
+  --br-lg: 12px;
+}
